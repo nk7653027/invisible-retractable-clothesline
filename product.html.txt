@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Invisible Retractable Clothesline - Product</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <h1>Invisible Retractable Clothesline</h1>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="product.html">Product</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="product-detail">
+        <h2>The Invisible Retractable Clothesline</h2>
+        <div class="product-images">
+            <img src="clothesline1.jpg" alt="Invisible Retractable Clothesline">
+            <img src="clothesline2.jpg" alt="Invisible Retractable Clothesline" class="secondary-image">
+        </div>
+        <p class="price">$49.99</p>
+        <p>Our Invisible Retractable Clothesline is the perfect space-saving solution for drying your clothes indoors or outdoors. It retracts into a small, unobtrusive case when not in use, offering you an invisible, tidy, and efficient drying space.</p>
+        
+        <h3>Key Features:</h3>
+        <ul>
+            <li>Retractable design for easy storage</li>
+            <li>High-quality, durable material</li>
+            <li>Weather-resistant for outdoor use</li>
+            <li>Easy to install on walls or posts</li>
+        </ul>
+
+        <a href="cart.html" class="cta-button">Add to Cart</a>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Invisible Retractable Clothesline. All rights reserved.</p>
+    </footer>
+</body>
+</html>
